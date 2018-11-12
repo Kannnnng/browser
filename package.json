@@ -1,0 +1,25 @@
+{
+  "name": "browser",
+  "version": "1.0.0",
+  "description": "浏览器版本检测",
+  "main": "Browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kannnnng/browser.git"
+  },
+  "keywords": [
+    "浏览器",
+    "类型",
+    "版本",
+    "平台"
+  ],
+  "author": "mumuy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kannnnng/browser/issues"
+  },
+  "homepage": "https://github.com/Kannnnng/browser#readme"
+}
